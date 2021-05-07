@@ -113,3 +113,4 @@ function resolver(){
     Resetear();
     resultado.textContent = res;
 }
+}
